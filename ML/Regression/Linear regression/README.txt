@@ -1,0 +1,1 @@
+Using linear regression model from sciketlearn to predict the the salary based on experience
